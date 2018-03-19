@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4_Lab", "..\Week4_Lab\Week4_Lab\Week4_Lab.csproj", "{1DEFE1C2-7373-4A06-8F1A-26CEEF57D69E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAppApi", "..\..\..\OneDrive\Documents\GitHub\Wasseem-Salame-Lab-Week---9\MyAppApi\MyAppApi.csproj", "{EBB95AC2-89F8-4611-9C73-9DE0BC09D3AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAppApi", "MyAppApi\MyAppApi.csproj", "{EBB95AC2-89F8-4611-9C73-9DE0BC09D3AC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
